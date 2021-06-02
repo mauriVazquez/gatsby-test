@@ -1,0 +1,15 @@
+.content {
+    @apply w-full h-full justify-items-center text-center
+}
+
+.tw-block {
+    @apply block
+}
+
+.div-heading {
+    @apply text-gray-800 text-center h-24 items-center
+}
+
+.heading-title {
+    @apply inline-block text-3xl font-extrabold text-gray-900 tracking-tight
+  }
